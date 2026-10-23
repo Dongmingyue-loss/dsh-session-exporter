@@ -1,0 +1,2 @@
+# Core exporter has no third-party runtime dependencies.
+# For DSH .jsonl.zstd sessions on Python 3.9-3.13, install requirements-dsh.txt.
